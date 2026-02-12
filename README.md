@@ -1,4 +1,5 @@
 🚢 Titanic Survival Analysis
+
 📌 Motivation & Problem Statement
 
 The Titanic dataset is one of the most widely used datasets in data analytics and education. Beyond its historical relevance, it provides a structured opportunity to analyze how demographic and socio-economic factors influence real-world outcomes.
@@ -10,9 +11,7 @@ The primary objective is structured analytical reasoning aligned with Entry-Leve
 🎯 Target Audience
 
     Aspiring Data Analysts
-
     Data Science learners
-
     Recruiters evaluating foundational analytics skills
 
 Hiring managers assessing exploratory data analysis capability
@@ -24,13 +23,9 @@ Hiring managers assessing exploratory data analysis capability
 The findings reflect real-world analytical scenarios where professionals evaluate:
 
     Risk patterns
-
     Socio-economic disparities
-
     Decision outcomes
-
     Fairness and prioritization factors
-
     Structured exploratory analysis like this forms the foundation of business intelligence and operational analytics.
 
 📊 Project Overview
@@ -40,17 +35,11 @@ This project performs a structured Exploratory Data Analysis (EDA) of the Titani
 Workflow Includes:
 
     Data loading and validation
-
     Missing value handling
-
     Feature engineering (FamilySize, Age Groups)
-
     Survival rate computation (percentage-based)
-
     Cross-variable analysis
-
     Visualization and interpretation
-
     Strategic conclusions
 
 🗂 Dataset Information
@@ -62,21 +51,13 @@ Features: 12 structured variables
 Key attributes include:
 
     PassengerId
-
     Survived
-
     Pclass
-
     Sex
-
     Age
-
     Fare
-
     SibSp
-
     Parch
-
     Embarked
 
 🧹 Data Preparation & Feature Engineering
@@ -147,15 +128,6 @@ titanic-survival-analysis/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
-🛠 Tools & Technologies
-
-    Python
-    Pandas
-    NumPy
-    Matplotlib
-    Seaborn
-    Jupyter Notebook
 
 
 ▶️ How to Run the Project
